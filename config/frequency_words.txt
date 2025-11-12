@@ -1,19 +1,25 @@
-胖东来
-于东来
+游戏
+独立游戏
+国产游戏
+3A游戏
+steam
 
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+研究生入学考试
+考研
+公务员考试
+考公
 
-比亚迪
-王传福
+医疗
+医药
+自研药
+抗癌药
 
 大疆
 DJI
+
 
 宇树
 王兴兴
@@ -40,7 +46,6 @@ DJI
 刘慈欣
 郭帆
 
-申奥
 
 京东
 刘强东
@@ -100,9 +105,6 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
-
 新质生产力
 
 月球
@@ -111,3 +113,13 @@ ai
 宇宙
 飞船
 航空
+
+蛋白质设计
+Protein de novo design
+David Baker
+AlphaFold
+RFdiffusion
+ProteinMPNN
+
+PubMed
+NCBI
